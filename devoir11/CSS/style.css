@@ -3,17 +3,39 @@ body {
    font-family: Arial, sans-serif;
    margin: 0;
    padding: 0;
-   background-color: #f2f2f2;
+   background-color: #0850a9;
 }
+header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+   background-color: rgba(24, 103, 221, 0.7); /* Fond semi-transparent pour le header */
+   color: white;
+}
+.logo img {
+   width: 700px;
+   height: 63px;
 
+}
 .container {
    max-width: 600px;
    margin: 30px auto;
-   background-color: #fff;
+   background-color: #d27a0e;
    padding: 20px;
    border-radius: 5px;
    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+footer {
+   text-align: center;
+   padding: 0,5%;
+   background-color: rgba(0, 0, 0, 0.7); 
+   color: white;
+   position:relative;
+   width: 100%;
+   
+   
+  }
 
 h1 {
    text-align: center;
