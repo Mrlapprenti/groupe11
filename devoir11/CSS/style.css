@@ -3,14 +3,14 @@ body {
    font-family: Arial, sans-serif;
    margin: 0;
    padding: 0;
-   background-color: #f2f2f2;
+   background-color: #0850a9;
 }
 header {
    display: flex;
    justify-content: space-between;
    align-items: center;
    padding: 10px;
-   background-color: rgba(234, 223, 223, 0.7); /* Fond semi-transparent pour le header */
+   background-color: rgba(24, 103, 221, 0.7); /* Fond semi-transparent pour le header */
    color: white;
 }
 .logo img {
@@ -21,7 +21,7 @@ header {
 .container {
    max-width: 600px;
    margin: 30px auto;
-   background-color: #fff;
+   background-color: #d27a0e;
    padding: 20px;
    border-radius: 5px;
    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
