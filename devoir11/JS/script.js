@@ -129,7 +129,6 @@ updateLocation();
    
       
       
-      
     
       function updateTime() {
       var timeDisplay = document.getElementById("time-display");
